@@ -8,6 +8,7 @@ Each Bandit level is documented in a separate markdown file with:
 - The objective of the level
 - Commands used
 - Step-by-step explanation
+- outcomes
 
 ## Repository Structure
 
