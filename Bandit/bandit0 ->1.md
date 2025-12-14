@@ -12,3 +12,4 @@ cd -- to move to next directory
 In this level we need to use ls command to list the file in home directory and by using cat command we can read the file and password for the next level
 ## Outcomes
 learned how to use some basic commands in linux
+flag:ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
